@@ -1,0 +1,17 @@
+config:
+  aws:profile: dev
+  aws:region: us-east-1
+  gcp:project: dev-project-406200
+  quickstart:ami: ami-0bcf258ecd38e4143
+  quickstart:appPort: "8080"
+  quickstart:domain: dev.meghnaallam.me
+  quickstart:hostedzone: Z03713111JMG9T09LFSVU
+  quickstart:keyPair: webapp
+  quickstart:mailgun_api_key: 08dd22d22a91c7bd1f2861aa8d635a54-5d2b1caa-cb917828
+  quickstart:name: cloudapi
+  quickstart:tableName: submissions-csye
+  quickstart:password: fall2023csye6225
+  quickstart:project: dev-project-406200
+  quickstart:region: us-east-1
+  quickstart:username: webapp
+  quickstart:certificateArn: arn:aws:acm:us-east-1:687843762779:certificate/98a2eafa-830b-469c-96b4-57af10677bfa
