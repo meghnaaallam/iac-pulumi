@@ -10,15 +10,15 @@ config:
   
   quickstart:ami: ami-0bcf258ecd38e4143
   quickstart:appPort: "8080"
-  gcp:project: silver-spark-406200
-  quickstart:keyPair: webappec2
+  gcp:project: xxxx
+  quickstart:keyPair: xxx
   quickstart:username: webapp
-  quickstart:name: cloudapi
-  quickstart:mailgun_api_key: 08dd22d22a91c7bd1f2861aa8d635a54-5d2b1caa-cb917828  
+  quickstart:name: xxx
+  quickstart:mailgun_api_key: xvcvcvc  
   quickstart:domain: demo.meghnaallam.me
-  quickstart:password: fall2023csye6225
-  quickstart:hostedzone: Z068993620N8ADRV0B5DA
+  quickstart:password: xxxx
+  quickstart:hostedzone: xxxxx
   quickstart:region: us-east-1
-  quickstart:project: silver-spark-406200
-  quickstart:tableName: submissions-csye
-  quickstart:certificateArn: arn:aws:acm:us-east-1:842771209345:certificate/0d96dcec-45d6-4a4d-af7d-be98e523d8d8
+  quickstart:project: xxxxx
+  quickstart:tableName: xxxx
+  quickstart:certificateArn: xxxx
